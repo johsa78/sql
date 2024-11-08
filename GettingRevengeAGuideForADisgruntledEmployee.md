@@ -1,0 +1,3 @@
+How to get revenge...
+
+Encrypt the bosses data and make him pay!
