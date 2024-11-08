@@ -1,1 +1,3 @@
 Place holder for how to do a ransomware attack on a database
+
+Step 1 - decide on a key...
